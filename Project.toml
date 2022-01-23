@@ -3,6 +3,13 @@ uuid = "ae402232-ec73-4283-a731-1b162f1eedef"
 authors = ["Shuichi Miyazawa"]
 version = "0.1.0"
 
+[deps]
+AbstractGPs = "99985d1d-32ba-4be9-9821-2ec096f28918"
+AugmentedGPLikelihoods = "4689c64d-1a23-4d3c-ad26-1c612d54a282"
+AugmentedGaussianProcesses = "38eea1fd-7d7d-5162-9d08-f89d0f2e271e"
+KernelFunctions = "ec8451be-7e33-11e9-00cf-bbf324bd1392"
+StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
+
 [compat]
 julia = "1.6"
 

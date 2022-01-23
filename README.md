@@ -1,4 +1,4 @@
-# InfiniteWarpedMixtureModels
+# InfiniteWarpedMixtureModels.jl
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://shu13830.github.io/InfiniteWarpedMixtureModels.jl/stable)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://shu13830.github.io/InfiniteWarpedMixtureModels.jl/dev)
